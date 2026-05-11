@@ -1,0 +1,8 @@
+com/myapp/util/SendEmail.class
+com/myapp/servlet/VerifyServlet.class
+com/myapp/servlet/LogoutServlet.class
+com/myapp/util/TokenGenerator.class
+com/myapp/db/DBConnection.class
+com/myapp/util/SendEmail$1.class
+com/myapp/servlet/SignupServlet.class
+com/myapp/servlet/LoginServlet.class

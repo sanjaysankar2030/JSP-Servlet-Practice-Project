@@ -1,0 +1,7 @@
+/workspaces/JSP-Servlet-Practice-Project/src/main/java/com/myapp/db/DBConnection.java
+/workspaces/JSP-Servlet-Practice-Project/src/main/java/com/myapp/servlet/LoginServlet.java
+/workspaces/JSP-Servlet-Practice-Project/src/main/java/com/myapp/servlet/LogoutServlet.java
+/workspaces/JSP-Servlet-Practice-Project/src/main/java/com/myapp/servlet/SignupServlet.java
+/workspaces/JSP-Servlet-Practice-Project/src/main/java/com/myapp/servlet/VerifyServlet.java
+/workspaces/JSP-Servlet-Practice-Project/src/main/java/com/myapp/util/SendEmail.java
+/workspaces/JSP-Servlet-Practice-Project/src/main/java/com/myapp/util/TokenGenerator.java
